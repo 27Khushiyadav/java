@@ -1,3 +1,8 @@
+/*3) Write a Java program to rotate an array right by K positions.
+Example:
+Input: arr = [1, 2, 3, 4, 5], K = 2 
+Output: [4, 5, 1, 2, 3]
+ */
 import java.util.Scanner;
 
 public class RotateArray {

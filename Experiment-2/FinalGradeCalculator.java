@@ -1,3 +1,10 @@
+/*1.	Write a program to calculate the final grade of a student based on the marks entered in three subjects. Use the following grading scale:
+Average >= 90: Grade A
+Average >= 75: Grade B
+Average >= 50: Grade C
+Otherwise: Grade F
+
+ */
 import java.util.Scanner;
 
  public class FinalGradeCalculator {

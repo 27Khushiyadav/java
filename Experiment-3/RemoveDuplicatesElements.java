@@ -1,3 +1,9 @@
+/*2) Remove Duplicate Elements in Unsorted Array.
+Example: 
+Input: arr[] = {2,1,3,5,5,3,2,7,2,8,7,5}
+Output: arr[] = {1,2,3,5,7,8}
+
+ */
 import java.util.Scanner;
 import java.util.Arrays;
 

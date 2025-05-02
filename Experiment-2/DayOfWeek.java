@@ -1,3 +1,4 @@
+/* 3.	Create a program that accepts a number (1–7) and displays the corresponding day of the week using a switch statement. */
 import java.util.Scanner;
 
 public class DayOfWeek {
